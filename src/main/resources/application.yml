@@ -1,0 +1,9 @@
+console:
+  message:
+    wrong-input: "An error has occurred while processing the product you entered, please try again as follows and if the error persists contact your system administrator"
+    add-item: "To add a product respect the following format: desired quantity | space | product name (in case it is imported add the imported term in the name) | space | price desired and press 'ENTER' button."
+    place-order: "if you want to place an order with the items currently in the shopping cart type the word [ PLACE ORDER ] and press the [ ENTER ] button"
+spring:
+  application:
+    name: THEMIS
+  
